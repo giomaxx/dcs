@@ -1,6 +1,7 @@
 Dual Citizenship Support
+
 Technologies used: REACT + MATERIAL UI
-Landing Page
+
 Just a basic landing page for a consulting business.
 
 Fully scalable, the project has been built as a SPA with React.
